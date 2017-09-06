@@ -1,7 +1,9 @@
 {
-  "name": "20170906-line-notify",
+  "name": "20170907-line-notify-weather",
   "version": "1.0.0",
   "dependencies": {
-    "axios": "^0.16.2"
+    "axios": "^0.16.2",
+    "date-fns": "^1.28.5",
+    "node-emoji": "^1.8.1"
   }
 }
